@@ -1,0 +1,6 @@
+{
+  "name": "VoxRoutine - Daily Routine & Meeting Voice Assistant",
+  "description": "Smart daily routine and meeting voice assistant featuring real-time tracking, Web Speech API alerts, desktop notifications, and interactive timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
